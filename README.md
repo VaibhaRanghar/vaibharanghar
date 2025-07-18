@@ -2,13 +2,13 @@
 <h3 align="center">Full Stack JavaScript Developer | React • Next.js • Node.js • TypeScript</h3>
 
 <p align="center">
-  <a href="https://vaibhavranghar.dev" target="_blank">
+  <a href="https://portfolio-website-uzzd.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/vaibhavranghar/" target="_blank">
+  <a href="https://linkedin.com/in/vaibhav-ranghar-355081294/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:vaibhav@example.com">
+  <a href="mailto:vaibhavranghar150@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
@@ -33,15 +33,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavranghar&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavranghar&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavranghar&layout=compact&theme=tokyonight" />
-</div>
-
----
 
 ### 🚀 Featured Projects
 
