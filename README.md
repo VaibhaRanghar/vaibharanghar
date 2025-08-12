@@ -39,15 +39,15 @@
 | Project       | Description |
 |---------------|-------------|
 | 🌍 [ExploreCase.in](https://explorecase.in) | Travel agency website built to increase online visibility and customer engagement |
-| 🧠 [Portfolio Website](https://vaibhavranghar.dev) | My personal website built with React & TailwindCSS to showcase my projects and resume |
+| 🧠 [Portfolio Website]([https://vaibhavranghar.dev](https://portfolio-website-uzzd.vercel.app/)) | My personal website built with React & TailwindCSS to showcase my projects and resume |
 
 ---
 
 ### 📫 Let's Connect
 
 - 📧 Email: vaibhavranghar150@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/vaibhavranghar](https://www.linkedin.com/in/vaibhavranghar/)
-- 🌐 Portfolio: [vaibhavranghar.dev](https://vaibhavranghar.dev)
+- 💼 LinkedIn: [linkedin.com/in/vaibhavranghar]([https://www.linkedin.com/in/vaibhavranghar/](https://www.linkedin.com/in/vaibhav-ranghar-355081294/))
+- 🌐 Portfolio: [vaibhavranghar.dev]([https://vaibhavranghar.dev](https://portfolio-website-uzzd.vercel.app/))
 
 ---
 
